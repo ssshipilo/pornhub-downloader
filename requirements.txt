@@ -1,0 +1,4 @@
+PyExecJS==1.5.1
+tqdm==4.65.0
+beautifulsoup4==4.12.2
+requests-html==0.10.0
